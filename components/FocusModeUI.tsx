@@ -13,6 +13,7 @@ export default function FocusModeUI() {
 	// 			return;
 	// 		}
 	// this function is no more useful.
+	// this is just a simple search bar.
 	// 		setError("");
 	// 		const searchUrl = `https://www.youtube.com/results?search_query=${encodeURIComponent(
 	// 			searchQuery
