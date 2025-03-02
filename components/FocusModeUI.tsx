@@ -12,6 +12,7 @@ export default function FocusModeUI() {
 	// 			setError("Please enter a search term");
 	// 			return;
 	// 		}
+	// this function is no more useful.
 	// 		setError("");
 	// 		const searchUrl = `https://www.youtube.com/results?search_query=${encodeURIComponent(
 	// 			searchQuery
