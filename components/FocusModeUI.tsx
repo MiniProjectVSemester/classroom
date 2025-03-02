@@ -21,7 +21,7 @@ export default function FocusModeUI() {
 	// 		window.location.href = searchUrl;
 	// 	}
 	// };
-
+	// end of the function
 	return (
 		<div className="fixed inset-0 z-[10000] flex flex-col items-center justify-center bg-slate-50">
 			<h1 className="text-4xl font-bold mb-8 text-slate-800 flex items-center gap-3">
